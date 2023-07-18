@@ -1,7 +1,28 @@
-WhatsApp Clone
+# My Blog Posts Platform (Front-End)
+Engineered a serverless chat application featuring live updates and server-side rendering (SSR), which fetches chats from the server prior to user site access for seamless interactivity.
+The application leverages Firebase as the cloud BaaS and Google authentication for user sign-in. It harmoniously combines styled-components and Material UI for a cohesive user interface.
+Built using NextJS(12) and its advanced SSR features, this application is specifically designed for desktop use.
 
-A serverless chat app with live chat updates and server-side rendering(SSR). This means when entering someone's chat the chats will be already available there instead of client-side rendering which makes the app so smooth. I have used firebase as my cloud BaaS and firebase google authentication as a way for users to sign in. And used Material UI in required places to make the front-end look Solid. And finally, this app is fully test written. This app is a clone of only the desktop version of WhatsApp, so no responsive added to it.
-I will be keep adding stuffs to this project.
+## Technologies Used
+JavaScript, React, NextJS(12), Firebase, MUI, Styled-Components, Jest
 
+## Available Scripts
+In the project directory, you can run:
 
-Tools Used  :  JavaScript,  React,  NextJS(12),  FireBase(9),  MUI,  Styled-Components,  Jest
+### `npm install`
+Installs needed dependencies.
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
