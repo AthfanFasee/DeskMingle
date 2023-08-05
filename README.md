@@ -1,4 +1,4 @@
-# WhatsApp Clone
+# DeskMingle
 Engineered a serverless chat application featuring live updates and server-side rendering (SSR), which fetches chats from the server prior to user site access for seamless interactivity.
 The application leverages Firebase as the cloud BaaS and Google authentication for user sign-in. It harmoniously combines styled-components and Material UI for a cohesive user interface.
 Built using NextJS(12) and its advanced SSR features, this application is specifically designed for desktop use.
