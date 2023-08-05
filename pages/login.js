@@ -18,7 +18,7 @@ function Login() {
 
             <LoginContainer>
                 
-                <Logo src="https://www.freepnglogos.com/uploads/whatsapp-png-logo-1.png" />
+                <Logo src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8WjevdJO0LOjTX4_S900QHfRSBtm4HGB9ZSgABI17cMaQvu7&s" />
                 <Button onClick={signIn} variant="outlined">Sign in with Google</Button>
             </LoginContainer>
         </Container>
